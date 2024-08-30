@@ -23,4 +23,4 @@ To run this game locally, you'll need Python and Pygame installed on your comput
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/NevilWilson107/Aim_Trainer.git
+   git clone https://github.com/NevilWilson107/Aim_Trainer.git"# Aim_Trainer" 
